@@ -1,0 +1,32 @@
+aid: bruzu
+name: Bruzu
+description: "Image generation with query string"
+url: https://docs.bruzu.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Bruzu
+    description: "Image generation with query string"
+    humanURL: https://docs.bruzu.com
+    baseURL: https://docs.bruzu.com
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://docs.bruzu.com
+common:
+  - type: Website
+    url: https://docs.bruzu.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
